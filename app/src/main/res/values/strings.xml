@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM-Architecture-Android-Beginners</string>
+    <string name="download_users">Download users</string>
+    <string name="avatar_of_user">avatar of user</string>
+</resources>
